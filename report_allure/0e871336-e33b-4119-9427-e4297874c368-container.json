@@ -1,0 +1,1 @@
+{"uuid": "bd72d2fc-2993-4416-926e-8f0e8732bbcf", "befores": [{"name": "pytestbdd_when_I Perform search: Pick Country '{pick_up_country}', start from '{pick_up_point}' going to '{drop_off_point}' on '{departure_date}' '{departure_time}' and click Search button", "status": "passed", "start": 1639277516816, "stop": 1639277516816}], "start": 1639277516816, "stop": 1639277521667}

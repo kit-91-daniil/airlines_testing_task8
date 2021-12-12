@@ -1,0 +1,1 @@
+{"uuid": "be0698ff-f3f5-423b-b179-5f2dfb986edd", "befores": [{"name": "pytestbdd_then_I should see '{hotel}' and period: from '{check_in_year_month_day}' to '{check_out_year_month_day}'", "status": "passed", "start": 1639277471989, "stop": 1639277471989}], "start": 1639277471989, "stop": 1639277472043}

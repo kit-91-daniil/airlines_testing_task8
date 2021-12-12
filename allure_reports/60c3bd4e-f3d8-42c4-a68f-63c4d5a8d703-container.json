@@ -1,0 +1,1 @@
+{"uuid": "75b34f04-28b6-4d40-922b-053a90fc01de", "befores": [{"name": "pytestbdd_then_I should see flights from '{origin_airport}' to '{destination_airport}' and arrival price", "status": "passed", "start": 1639276444249, "stop": 1639276444249}], "start": 1639276444249, "stop": 1639276444299}
