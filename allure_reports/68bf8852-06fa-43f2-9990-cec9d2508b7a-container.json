@@ -1,0 +1,1 @@
+{"uuid": "56b8d245-6870-4c59-be05-8903c235c158", "befores": [{"name": "pytestbdd_when_I Perform search: from '{origin_airport}' to '{destination_airport}' with budget under '{budget}' and click Let's Go button", "status": "passed", "start": 1639276530766, "stop": 1639276530766}], "start": 1639276530766, "stop": 1639276534701}
