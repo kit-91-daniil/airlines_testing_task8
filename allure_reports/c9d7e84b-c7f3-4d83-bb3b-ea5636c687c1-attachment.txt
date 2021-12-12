@@ -1,0 +1,31 @@
+
+
+====== WebDriver manager ======
+Current google-chrome version is 95.0.4638
+Get LATEST chromedriver version for 95.0.4638 google-chrome
+Driver [/home/dan/.wdm/drivers/chromedriver/linux64/95.0.4638.69/chromedriver] found in cache
+[32m2021-12-12 05:45:51.689[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mis_element_present[0m:[36m41[0m - [1mTrying to find element css selector - button.cookie-popup-with-overlay__button[0m
+[32m2021-12-12 05:45:51.706[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - button.cookie-popup-with-overlay__button [0m
+[32m2021-12-12 05:45:51.825[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - button.cookie-popup-with-overlay__button has been clicked[0m
+[32m2021-12-12 05:45:51.826[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-ref='header-menu-item__toggle-button'][aria-label='Plan'] [0m
+[32m2021-12-12 05:45:51.973[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-ref='header-menu-item__toggle-button'][aria-label='Plan'] has been clicked[0m
+[32m2021-12-12 05:45:51.974[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [aria-label='Search Bus and Train'] [0m
+[32m2021-12-12 05:45:58.276[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [aria-label='Search Bus and Train'] has been clicked[0m
+[32m2021-12-12 05:45:58.285[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mfind_element_after_explicit_waiting[0m:[36m21[0m - [1mTrying to find element css selector - #country-div>input[type='text'][0m
+[32m2021-12-12 05:45:58.420[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - li[data-name*='Greece'] [0m
+[32m2021-12-12 05:45:58.515[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - li[data-name*='Greece'] has been clicked[0m
+[32m2021-12-12 05:45:58.516[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mfind_element_after_explicit_waiting[0m:[36m21[0m - [1mTrying to find element css selector - #source-div>input[type='text'][0m
+[32m2021-12-12 05:45:58.765[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - li[data-code='CHQ'] [0m
+[32m2021-12-12 05:45:58.847[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - li[data-code='CHQ'] has been clicked[0m
+[32m2021-12-12 05:45:58.847[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mfind_element_after_explicit_waiting[0m:[36m21[0m - [1mTrying to find element css selector - #target-div>input[type='text'][0m
+[32m2021-12-12 05:45:58.936[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - li[data-name*='Adele'] [0m
+[32m2021-12-12 05:45:59.545[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - li[data-name*='Adele'] has been clicked[0m
+[32m2021-12-12 05:45:59.545[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - input.dateFrom [0m
+[32m2021-12-12 05:45:59.670[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - input.dateFrom has been clicked[0m
+[32m2021-12-12 05:45:59.671[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element xpath - //*[@data-month=11]//*[text()='19'] [0m
+[32m2021-12-12 05:45:59.759[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement xpath - //*[@data-month=11]//*[text()='19'] has been clicked[0m
+[32m2021-12-12 05:45:59.760[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - #DepartureDate > [value='10:00'] [0m
+[32m2021-12-12 05:45:59.839[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - #DepartureDate > [value='10:00'] has been clicked[0m
+[32m2021-12-12 05:45:59.840[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - input[value='Search'] [0m
+[32m2021-12-12 05:46:05.123[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - input[value='Search'] has been clicked[0m
+[32m2021-12-12 05:46:05.124[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mget_text_of_the_element_after_explicit_waiting[0m:[36m25[0m - [1mTrying to find element css selector - .bigNBold and get element.text[0m

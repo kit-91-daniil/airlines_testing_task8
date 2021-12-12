@@ -1,0 +1,35 @@
+
+
+====== WebDriver manager ======
+Current google-chrome version is 95.0.4638
+Get LATEST chromedriver version for 95.0.4638 google-chrome
+Driver [/home/dan/.wdm/drivers/chromedriver/linux64/95.0.4638.69/chromedriver] found in cache
+[32m2021-12-12 06:07:01.903[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mis_element_present[0m:[36m41[0m - [1mTrying to find element css selector - button.cookie-popup-with-overlay__button[0m
+[32m2021-12-12 06:07:01.920[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - button.cookie-popup-with-overlay__button [0m
+[32m2021-12-12 06:07:02.041[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - button.cookie-popup-with-overlay__button has been clicked[0m
+[32m2021-12-12 06:07:02.047[0m | [1mINFO    [0m | [36mairlines_testing_task.step_defs.test_search_steps[0m:[36mopen_the_tab_on_main_page[0m:[36m29[0m - [1m('css selector', "[data-ref='search-widget-tabs__flights']")[0m
+[32m2021-12-12 06:07:02.047[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-ref='search-widget-tabs__flights'] [0m
+[32m2021-12-12 06:07:02.131[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-ref='search-widget-tabs__flights'] has been clicked[0m
+[32m2021-12-12 06:07:02.144[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mfind_element_after_explicit_waiting[0m:[36m21[0m - [1mTrying to find element css selector - #input-button__departure[0m
+[32m2021-12-12 06:07:02.377[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-id='BUD'] [0m
+[32m2021-12-12 06:07:02.672[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-id='BUD'] has been clicked[0m
+[32m2021-12-12 06:07:02.673[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mfind_element_after_explicit_waiting[0m:[36m21[0m - [1mTrying to find element css selector - #input-button__destination[0m
+[32m2021-12-12 06:07:02.774[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-id='CPH'] [0m
+[32m2021-12-12 06:07:03.480[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-id='CPH'] has been clicked[0m
+[32m2021-12-12 06:07:03.480[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [uniqueid='dates-from'] [0m
+[32m2021-12-12 06:07:04.085[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [uniqueid='dates-from'] has been clicked[0m
+[32m2021-12-12 06:07:04.085[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element xpath - //div[text()=' Dec '] [0m
+[32m2021-12-12 06:07:04.163[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement xpath - //div[text()=' Dec '] has been clicked[0m
+[32m2021-12-12 06:07:04.163[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-id='2021-12-14'] [0m
+[32m2021-12-12 06:07:04.365[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-id='2021-12-14'] has been clicked[0m
+[32m2021-12-12 06:07:04.365[0m | [1mINFO    [0m | [36mfeatures.pages.main_page_flight_tab[0m:[36mchoose_departure_date[0m:[36m61[0m - [1mdepart date was checked[0m
+[32m2021-12-12 06:07:04.366[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [uniqueid='dates-to'] [0m
+[32m2021-12-12 06:07:04.476[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [uniqueid='dates-to'] has been clicked[0m
+[32m2021-12-12 06:07:04.477[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element xpath - //div[text()=' Dec '] [0m
+[32m2021-12-12 06:07:04.568[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement xpath - //div[text()=' Dec '] has been clicked[0m
+[32m2021-12-12 06:07:04.568[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-id='2021-12-17'] [0m
+[32m2021-12-12 06:07:04.756[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-id='2021-12-17'] has been clicked[0m
+[32m2021-12-12 06:07:04.756[0m | [1mINFO    [0m | [36mfeatures.pages.main_page_flight_tab[0m:[36mchoose_return_date[0m:[36m74[0m - [1mreturn date was checked[0m
+[32m2021-12-12 06:07:04.757[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m16[0m - [1mTry to click element css selector - [data-ref='flight-search-widget__cta'] [0m
+[32m2021-12-12 06:07:04.885[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mclick_element_to_be_active_after_explicit_waiting[0m:[36m18[0m - [1mElement css selector - [data-ref='flight-search-widget__cta'] has been clicked[0m
+[32m2021-12-12 06:07:09.905[0m | [1mINFO    [0m | [36mproject_utils.browser_helper[0m:[36mfind_element_after_explicit_waiting[0m:[36m21[0m - [1mTrying to find element css selector - h3[class*='ng-tns-c'][0m
