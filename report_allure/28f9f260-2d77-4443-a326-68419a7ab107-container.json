@@ -1,1 +1,0 @@
-{"uuid": "5eeee0fc-c979-4582-81b5-0f39526b3dce", "befores": [{"name": "pytestbdd_then_I should see '{destination_airport}' and flight price less than '{budget}'", "status": "passed", "start": 1639277488559, "stop": 1639277488559}], "start": 1639277488559, "stop": 1639277489649}
