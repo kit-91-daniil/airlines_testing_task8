@@ -1,2 +1,2 @@
 class Config:
-    timeout = 6
+    timeout = 7

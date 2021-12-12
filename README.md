@@ -26,7 +26,7 @@ $ python -m pytest -k cheap_flights_search --alluredir=allure_reports/
 $ python -m pytest -k transfer_search --alluredir=allure_reports/
 
 # OR for launch all the tests
-$ python -m pytest -v --alluredir=report_allure/
+$ python -m pytest -v --alluredir=allure_reports/
 
 # To open allure reports use command below:
 $ allure serve allure_reports/
