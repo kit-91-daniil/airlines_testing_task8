@@ -1,1 +1,0 @@
-{"uuid": "f6bc6a05-c3f5-4a84-8fb8-b1eaca2e08c8", "befores": [{"name": "pytestbdd_then_I should see transfer options: date '{departure_date}', time '{departure_time}' and price", "status": "passed", "start": 1639276553455, "stop": 1639276553455}], "start": 1639276553455, "stop": 1639276553504}

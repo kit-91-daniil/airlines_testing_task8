@@ -1,1 +1,0 @@
-{"uuid": "79a1cc41-151c-4dd8-88e4-3471acd94320", "befores": [{"name": "pytestbdd_when_I perform search: '{hotel}' in next period: from '{check_in_year_month_day}' to '{check_out_year_month_day}' and click the '{button}' button", "status": "passed", "start": 1639278500942, "stop": 1639278500942}], "start": 1639278500942, "stop": 1639278505675}
